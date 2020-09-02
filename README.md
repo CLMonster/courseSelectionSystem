@@ -1,0 +1,2 @@
+# courseSelectionSystem
+这是一个用Swing写的选课子系统，功能比较简陋，写于数据库课程设计
